@@ -1,6 +1,7 @@
 # ViT-Hook
 Official implementation of the paper: Vision Transformer Hook for Dense Predictions.
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d4f4ccf0-090d-4f27-b259-8ab8637b62a3">
 
 ## Acknowledgements
 Many thanks to the following repos that helped us a lot in building this codebase:
