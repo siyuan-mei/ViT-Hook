@@ -10,4 +10,4 @@ Many thanks to the following repos that helped us a lot in building this codebas
 - [ViT-Adapter](https://github.com/czczup/ViT-Adapter)
 
 ## License
-This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE.md) file.
+This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
