@@ -1,7 +1,4 @@
 # ViT-Hook
-
-<<<<<<< HEAD
-=======
 Official implementation of the paper **Vision Transformer Hook for Dense Predictions**.
 
 ## Overview
@@ -79,7 +76,6 @@ Please refer to:
 - If another `mmseg` package is installed in your environment, please make sure the local one is imported first.
 - Pretrained checkpoints and trained model weights will be released separately.
 
->>>>>>> 43f5cae (Update README files for public release)
 ## Acknowledgements
 
 Many thanks to the following repositories that helped us build this codebase:
